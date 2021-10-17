@@ -1,0 +1,40 @@
+/*============================= ELEMENT SELECTORS ============================== */
+
+body{
+  margin: 0;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #AEE1E1;
+}
+
+
+/*============================= CLASS SELECTORS ============================== */
+
+.bottom-cloud{
+position: absolute;
+border: solid;
+}
+
+.mountain1{
+  height: 85%;
+  width: 100%;
+}
+
+.mountain2{
+  position: absolute;
+  right: 0;
+  width: 100%;
+}
+
+.top-cloud{
+  position: absolute;
+  border: solid;
+}
+
+.top-container{
+  position: relative;
+  border: solid;
+  border-color: red;
+}
+
+/*============================= ID SELECTORS ============================== */
